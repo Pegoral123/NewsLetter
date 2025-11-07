@@ -1,0 +1,9 @@
+#msg-sucesso {
+  display: none;
+  color: green;
+}
+
+#msg-erro {
+  display: none;
+  color: red;
+}
